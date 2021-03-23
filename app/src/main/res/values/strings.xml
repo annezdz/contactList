@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">KotlinListaContatosDIO</string>
-    <string name ="open_drawer">Abrir</string>
-    <string name ="close_drawer">Fechar</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="lv_photograph_content_description">lv_phothograph</string>
 
 </resources>
